@@ -1,0 +1,30 @@
+{
+  "name": "voice_assistent",
+  "version": "1.0.0",
+  "description": "Ein Assistent zur Verbalen unterstützung",
+  "main": "index.js",
+  "types": "module",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "react-scripts": "^4.0.0",
+    "react-dom": "^16.14.0",
+    "react": "^16.14.0",
+    "antd": "^4.15.0",
+    "@ant-design/icons": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackBloodSwan/Voice_Assistent.git"
+  },
+  "author": "Domenic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackBloodSwan/Voice_Assistent/issues"
+  },
+  "homepage": "https://github.com/BlackBloodSwan/Voice_Assistent#readme"
+}
