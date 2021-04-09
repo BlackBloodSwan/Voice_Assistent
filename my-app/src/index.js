@@ -18,7 +18,7 @@ const suffix = (
 );
 
 const handleChatbot = (event) => {
-  window.open("Chatbot.js")
+  window.location.replace ('Chatbot.js')
 }
 const handleOverview = (event) => {
   alert("Hallo")
