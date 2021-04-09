@@ -17,3 +17,8 @@
   [data-theme="dark"] .site-layout-content {
     background: #141414;
   }
+
+
+.input {
+  align-items: center;
+}
